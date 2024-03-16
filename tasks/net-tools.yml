@@ -1,0 +1,14 @@
+---
+- name: Install net-tools (RedHat).
+  package:
+    name: net-tools
+    state: present
+    enablerepo: epel
+  when: ansible_os_family == 'RedHat'
+
+- name: Install net-tools (Debian).
+  package:
+    name: net-tools
+    state: present
+  when: ansible_os_family == 'Debian'
+
