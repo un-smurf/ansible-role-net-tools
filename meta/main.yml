@@ -4,7 +4,7 @@ dependencies: []
 galaxy_info:
   role_name: net-tools
   author: un-smurf
-  description: Setup net-tools.
+  description: Setup net-tools
   license: "license (MIT)"
   min_ansible_version: 2.10
   platforms:
