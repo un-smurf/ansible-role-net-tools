@@ -1,3 +1,3 @@
 ---
 - name: Include net-tools tasks
-- ansible.builtin.include_tasks: net-tools.yml
+  ansible.builtin.include_tasks: net-tools.yml
