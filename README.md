@@ -1,5 +1,8 @@
 # Ansible Role: Net-Tools
 
+[![ansible-lint](https://github.com/un-smurf/ansible-role-net-tools/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/un-smurf/ansible-role-net-tools/actions/workflows/ansible-lint.yml)
+
+
 ## Requirements
 
 On RedHat/CentOS systems, make sure you have the EPEL repository installed (you can use `geerlingguy.repo-epel` role to get it installed).
