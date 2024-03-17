@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: net-tools
+  role_name: net_tools
   author: un-smurf
   description: Setup net-tools
   license: "license (MIT)"

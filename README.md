@@ -17,7 +17,7 @@ None.
 
     - hosts: servers
       roles:
-        - un-smurf.net-tools
+        - un-smurf.net_tools
 
 
 ## License
